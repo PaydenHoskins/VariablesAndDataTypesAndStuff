@@ -27,6 +27,8 @@ Module VariablesAndDataTypesAndStuff
 
         LaffyTaffy = 26
         Console.WriteLine(LaffyTaffy)
+        'conversion
+        'datatypes
     End Sub
 
 End Module
