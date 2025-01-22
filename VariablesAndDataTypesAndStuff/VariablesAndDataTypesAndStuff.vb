@@ -11,9 +11,19 @@ Module VariablesAndDataTypesAndStuff
 
         Dim jellyBeans As Integer
 
+        Console.WriteLine(jellyBeans)
 
+        jellyBeans = 120
 
+        Console.WriteLine(jellyBeans)
 
+        jellyBeans = jellyBeans + 10
+
+        Console.WriteLine(jellyBeans)
+
+        jellyBeans += 10
+
+        Console.WriteLine(jellyBeans)
 
 
     End Sub
