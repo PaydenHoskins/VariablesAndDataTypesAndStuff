@@ -6,7 +6,6 @@
 
 Option Explicit On
 
-
 Module VariablesAndDataTypesAndStuff
 
 
@@ -18,19 +17,15 @@ Module VariablesAndDataTypesAndStuff
         Console.WriteLine(jellyBeans)
 
         jellyBeans = 120
-
         Console.WriteLine(jellyBeans)
 
         jellyBeans = jellyBeans + 10
-
         Console.WriteLine(jellyBeans)
 
         jellyBeans += 10
-
         Console.WriteLine(jellyBeans)
 
         LaffyTaffy = 26
-
         Console.WriteLine(LaffyTaffy)
     End Sub
 
